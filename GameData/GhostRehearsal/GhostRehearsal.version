@@ -1,7 +1,7 @@
 {
   "NAME": "Ghost Rehearsal",
-  "URL": "",
-  "DOWNLOAD": "",
+  "URL": "https://raw.githubusercontent.com/milo127/Ghost-Rehearsal/refs/heads/main/GameData/GhostRehearsal/GhostRehearsal.version",
+  "DOWNLOAD": "https://github.com/milo127/Ghost-Rehearsal/releases/latest",
   "VERSION": {
     "MAJOR": 0,
     "MINOR": 1,
